@@ -1,0 +1,16 @@
+# HORSE
+
+**Category:** Dark Moody · **Tags:** `dark-moody`, `realistic`, `cinematic` · **Views on PromptSpace:** 148
+
+> Curated from [PromptSpace](https://www.promptspace.in/prompt/horse) — free, copy-paste-ready.
+
+![HORSE](https://cdn.promptspace.in/prompts/69ba8319e679cbaae9b2f730.webp)
+
+## Prompt
+
+```text
+"MOODY, CINEMATIC PORTRAIT OF A YOUNG MAN SAME PERSON (KEEP ORIGINAL FACE EXACTLY SAME) STANDING CLOSE TO A HORSE INSIDE A DIMLY LIT STABLE. THE MAN GENTLY LEANS HIS FOREHEAD TOWARD THE HORSE, CREATING AN INTIMATE AND EMOTIONAL CONNECTION. SOFT WARM LIGHT FROM THE SIDE HIGHLIGHTS HIS FACE, CASTING DRAMATIC SHADOWS THAT ENHANCE HIS AWLINE AND TOUSLED HAIR. HE WEARS A SLIGHTLY OVERSIZED OFF-WHITE SHIRT, ITS FABRIC CATCHING SUBTLE LIGHT TEXTURES. THE HORSE'S DARK BROWN COAT GLOWS WITH WARM TONES, SHOWING FINE DETAILS OF ITS FUR AND HARNESS. BACKGROUND IS SOFTLY BLURRED WITH RUSTIC STABLE WALLS AND FAINT BEAMS OF LIGHT. DEEP CONTRAST, WARM COLOR GRADING, SHALLOW DEPTH OF FIELD, EMOTIONAL STORYTELLING ATMOSPHERE, ULTRA-REALISTIC 8K PHOTOGRAPHY."
+```
+
+---
+Source: [HORSE on PromptSpace](https://www.promptspace.in/prompt/horse) · Browse 5,000+ free prompts at [promptspace.in](https://www.promptspace.in) · Optimize any prompt with the free [Prompt Optimizer](https://tools.promptspace.in/prompt-optimizer).

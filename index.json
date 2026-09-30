@@ -1,0 +1,1629 @@
+{
+  "count": 100,
+  "prompts": [
+    {
+      "file": "midjourney/minimalist-mirror-seduction-1.md",
+      "title": "Minimalist Mirror Seduction",
+      "slug": "minimalist-mirror-seduction-1",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "mirror-selfie",
+        "portrait",
+        "minimalist",
+        "photography"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/minimalist-mirror-seduction-1",
+      "views": 3516
+    },
+    {
+      "file": "flux/alpine-coupe-mountain-solitude.md",
+      "title": "Alpine Coupe Mountain Solitude",
+      "slug": "alpine-coupe-mountain-solitude",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "car",
+        "portrait",
+        "day"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/alpine-coupe-mountain-solitude",
+      "views": 3359
+    },
+    {
+      "file": "midjourney/minimalist-milk-dress-selfie.md",
+      "title": "Minimalist Milk Dress Selfie",
+      "slug": "minimalist-milk-dress-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "selfie",
+        "portrait",
+        "fashion",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/minimalist-milk-dress-selfie",
+      "views": 1635
+    },
+    {
+      "file": "midjourney/gym-locker-selfie.md",
+      "title": "Gym Locker Selfie",
+      "slug": "gym-locker-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "selfie",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/gym-locker-selfie",
+      "views": 1279
+    },
+    {
+      "file": "midjourney/pensive-monochrome-linen-portrait.md",
+      "title": "Pensive Monochrome Linen Portrait",
+      "slug": "pensive-monochrome-linen-portrait",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "photography",
+        "modern"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/pensive-monochrome-linen-portrait",
+      "views": 1241
+    },
+    {
+      "file": "stable-diffusion/glamour-woman.md",
+      "title": "Glamour Woman",
+      "slug": "glamour-woman",
+      "category_folder": "stable-diffusion",
+      "source_category": "Vibrant Colorful",
+      "tags": [
+        "vibrant-colorful",
+        "fashion",
+        "outdoor",
+        "modern",
+        "photography"
+      ],
+      "model_hint": "stable-diffusion",
+      "canonical_url": "https://www.promptspace.in/prompt/glamour-woman",
+      "views": 1206
+    },
+    {
+      "file": "flux/shadows-silence.md",
+      "title": "Shadows & Silence",
+      "slug": "shadows-silence",
+      "category_folder": "flux",
+      "source_category": "Cinematic",
+      "tags": [
+        "cinematic",
+        "fashion",
+        "dark-moody"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/shadows-silence",
+      "views": 917
+    },
+    {
+      "file": "midjourney/seljalandsfoss-travel-wanderer.md",
+      "title": "Seljalandsfoss Travel Wanderer",
+      "slug": "seljalandsfoss-travel-wanderer",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "selfie",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/seljalandsfoss-travel-wanderer",
+      "views": 751
+    },
+    {
+      "file": "midjourney/monochrome-editorial-portrait.md",
+      "title": "Monochrome Editorial Portrait",
+      "slug": "monochrome-editorial-portrait",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "fashion",
+        "photography",
+        "portrait",
+        "studio"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/monochrome-editorial-portrait",
+      "views": 688
+    },
+    {
+      "file": "midjourney/tropical-golden-selfie.md",
+      "title": "Tropical Golden Selfie",
+      "slug": "tropical-golden-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "selfie",
+        "photography"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/tropical-golden-selfie",
+      "views": 685
+    },
+    {
+      "file": "midjourney/blonde-portrait-2.md",
+      "title": "Blonde Portrait",
+      "slug": "blonde-portrait-2",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "day",
+        "elegant"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/blonde-portrait-2",
+      "views": 637
+    },
+    {
+      "file": "midjourney/male-portrait.md",
+      "title": "Male Portrait",
+      "slug": "male-portrait",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "mirror-selfie",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/male-portrait",
+      "views": 620
+    },
+    {
+      "file": "midjourney/studio-portrait-3.md",
+      "title": "studio portrait",
+      "slug": "studio-portrait-3",
+      "category_folder": "midjourney",
+      "source_category": "Dark Moody",
+      "tags": [
+        "dark-moody",
+        "business",
+        "modern",
+        "corporate",
+        "portrait",
+        "realistic"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/studio-portrait-3",
+      "views": 611
+    },
+    {
+      "file": "midjourney/sun-kissed-beach-daybed.md",
+      "title": "Sun-Kissed Beach Daybed",
+      "slug": "sun-kissed-beach-daybed",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "fashion",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/sun-kissed-beach-daybed",
+      "views": 544
+    },
+    {
+      "file": "flux/dark-entrance-linen-portrait.md",
+      "title": "Dark Entrance Linen Portrait",
+      "slug": "dark-entrance-linen-portrait",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "photography",
+        "portrait"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/dark-entrance-linen-portrait",
+      "views": 510
+    },
+    {
+      "file": "midjourney/tropical-garden-afternoon-ease.md",
+      "title": "Tropical Garden Afternoon Ease",
+      "slug": "tropical-garden-afternoon-ease",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/tropical-garden-afternoon-ease",
+      "views": 442
+    },
+    {
+      "file": "midjourney/intimate-bedside-profile.md",
+      "title": "Intimate Bedside Profile",
+      "slug": "intimate-bedside-profile",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "selfie"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/intimate-bedside-profile",
+      "views": 433
+    },
+    {
+      "file": "flux/reflective-urban-melancholy.md",
+      "title": "Reflective Urban Melancholy",
+      "slug": "reflective-urban-melancholy",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "fashion",
+        "photography",
+        "portrait"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/reflective-urban-melancholy",
+      "views": 407
+    },
+    {
+      "file": "image/desert-quad-triumphant.md",
+      "title": "Desert Quad Triumphant",
+      "slug": "desert-quad-triumphant",
+      "category_folder": "image",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "day"
+      ],
+      "model_hint": "image",
+      "canonical_url": "https://www.promptspace.in/prompt/desert-quad-triumphant",
+      "views": 403
+    },
+    {
+      "file": "midjourney/minimalist-linen-mirror-portrait.md",
+      "title": "Minimalist Linen Mirror Portrait",
+      "slug": "minimalist-linen-mirror-portrait",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "mirror-selfie",
+        "minimalist"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/minimalist-linen-mirror-portrait",
+      "views": 389
+    },
+    {
+      "file": "flux/steel-silence.md",
+      "title": "Steel Silence",
+      "slug": "steel-silence",
+      "category_folder": "flux",
+      "source_category": "Fashion",
+      "tags": [
+        "fashion",
+        "cinematic",
+        "dark-moody"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/steel-silence",
+      "views": 387
+    },
+    {
+      "file": "midjourney/melancholic-blackwater-flash.md",
+      "title": "Melancholic Blackwater Flash",
+      "slug": "melancholic-blackwater-flash",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "dark-moody",
+        "night"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/melancholic-blackwater-flash",
+      "views": 349
+    },
+    {
+      "file": "midjourney/ivy-wall-silhouette.md",
+      "title": "Ivy Wall Silhouette",
+      "slug": "ivy-wall-silhouette",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "fashion"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/ivy-wall-silhouette",
+      "views": 347
+    },
+    {
+      "file": "stable-diffusion/quiet-defiance.md",
+      "title": "Quiet Defiance",
+      "slug": "quiet-defiance",
+      "category_folder": "stable-diffusion",
+      "source_category": "Product Poster",
+      "tags": [
+        "product-poster",
+        "minimalist",
+        "modern",
+        "vibrant-colorful"
+      ],
+      "model_hint": "stable-diffusion",
+      "canonical_url": "https://www.promptspace.in/prompt/quiet-defiance",
+      "views": 343
+    },
+    {
+      "file": "flux/chiaroscuro-masculine-gaze.md",
+      "title": "Chiaroscuro Masculine Gaze",
+      "slug": "chiaroscuro-masculine-gaze",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "dark-moody",
+        "cinematic"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/chiaroscuro-masculine-gaze",
+      "views": 290
+    },
+    {
+      "file": "midjourney/natural-home-selfie-glow.md",
+      "title": "Natural Home Selfie Glow",
+      "slug": "natural-home-selfie-glow",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "selfie",
+        "portrait",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/natural-home-selfie-glow",
+      "views": 288
+    },
+    {
+      "file": "midjourney/mediterranean-linen-leisure.md",
+      "title": "Mediterranean Linen Leisure",
+      "slug": "mediterranean-linen-leisure",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "fashion",
+        "photography",
+        "portrait"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/mediterranean-linen-leisure",
+      "views": 268
+    },
+    {
+      "file": "midjourney/monochrome-elegance.md",
+      "title": "Monochrome Elegance",
+      "slug": "monochrome-elegance",
+      "category_folder": "midjourney",
+      "source_category": "Portrait",
+      "tags": [
+        "portrait",
+        "realistic"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/monochrome-elegance",
+      "views": 247
+    },
+    {
+      "file": "flux/glass-of-water.md",
+      "title": "glass of water",
+      "slug": "glass-of-water",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "portrait"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/glass-of-water",
+      "views": 236
+    },
+    {
+      "file": "midjourney/black-white-portrait.md",
+      "title": "black&white portrait",
+      "slug": "black-white-portrait",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "dark-moody",
+        "studio"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/black-white-portrait",
+      "views": 227
+    },
+    {
+      "file": "flux/g-class-underground-transit.md",
+      "title": "G-Class Underground Transit",
+      "slug": "g-class-underground-transit",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "photography",
+        "car"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/g-class-underground-transit",
+      "views": 219
+    },
+    {
+      "file": "midjourney/flash-satin-dressing-room.md",
+      "title": "Flash Satin Dressing Room",
+      "slug": "flash-satin-dressing-room",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "fashion",
+        "dark-moody",
+        "studio"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/flash-satin-dressing-room",
+      "views": 219
+    },
+    {
+      "file": "midjourney/sunset-shoreline-stance.md",
+      "title": "Sunset Shoreline Stance",
+      "slug": "sunset-shoreline-stance",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "fashion"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/sunset-shoreline-stance",
+      "views": 216
+    },
+    {
+      "file": "midjourney/muted-white-rosebush.md",
+      "title": "Muted White Rosebush",
+      "slug": "muted-white-rosebush",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "fashion",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/muted-white-rosebush",
+      "views": 210
+    },
+    {
+      "file": "midjourney/industrial-gym-bench-selfie.md",
+      "title": "Industrial Gym Bench Selfie",
+      "slug": "industrial-gym-bench-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "mirror-selfie",
+        "photography"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/industrial-gym-bench-selfie",
+      "views": 209
+    },
+    {
+      "file": "midjourney/minimalist-mirror-self-portrait.md",
+      "title": "Minimalist Mirror Self-Portrait",
+      "slug": "minimalist-mirror-self-portrait",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "mirror-selfie",
+        "minimalist"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/minimalist-mirror-self-portrait",
+      "views": 209
+    },
+    {
+      "file": "midjourney/monochrome-linen-portrait.md",
+      "title": "Monochrome Linen Portrait",
+      "slug": "monochrome-linen-portrait",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "studio",
+        "minimalist"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/monochrome-linen-portrait",
+      "views": 207
+    },
+    {
+      "file": "midjourney/tropical-palms.md",
+      "title": "tropical palms",
+      "slug": "tropical-palms",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/tropical-palms",
+      "views": 206
+    },
+    {
+      "file": "midjourney/dark-charcoal-flash-portrait.md",
+      "title": "Dark Charcoal Flash Portrait",
+      "slug": "dark-charcoal-flash-portrait",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "night",
+        "dark-moody",
+        "elegant"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/dark-charcoal-flash-portrait",
+      "views": 206
+    },
+    {
+      "file": "flux/cloudy-roadside-freedom.md",
+      "title": "Cloudy Roadside Freedom",
+      "slug": "cloudy-roadside-freedom",
+      "category_folder": "flux",
+      "source_category": "Cinematic",
+      "tags": [
+        "cinematic",
+        "fashion",
+        "car",
+        "day",
+        "photography"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/cloudy-roadside-freedom",
+      "views": 205
+    },
+    {
+      "file": "image/may-barbecue-snapshot.md",
+      "title": "May Barbecue Snapshot",
+      "slug": "may-barbecue-snapshot",
+      "category_folder": "image",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "day",
+        "modern"
+      ],
+      "model_hint": "image",
+      "canonical_url": "https://www.promptspace.in/prompt/may-barbecue-snapshot",
+      "views": 202
+    },
+    {
+      "file": "midjourney/red-knit-wall-solitude.md",
+      "title": "Red Knit Wall Solitude",
+      "slug": "red-knit-wall-solitude",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "fashion",
+        "elegant"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/red-knit-wall-solitude",
+      "views": 200
+    },
+    {
+      "file": "flux/toasting-caramel-linen-portrait.md",
+      "title": "Toasting Caramel Linen Portrait",
+      "slug": "toasting-caramel-linen-portrait",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "portrait",
+        "night"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/toasting-caramel-linen-portrait",
+      "views": 199
+    },
+    {
+      "file": "flux/realistic.md",
+      "title": "Realistic",
+      "slug": "realistic",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "portrait",
+        "fashion"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/realistic",
+      "views": 198
+    },
+    {
+      "file": "midjourney/burgundy-curtain-selfie.md",
+      "title": "Burgundy Curtain Selfie",
+      "slug": "burgundy-curtain-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "selfie",
+        "fashion"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/burgundy-curtain-selfie",
+      "views": 189
+    },
+    {
+      "file": "flux/portrait-10.md",
+      "title": "Portrait",
+      "slug": "portrait-10",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "portrait",
+        "fashion",
+        "photography"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/portrait-10",
+      "views": 181
+    },
+    {
+      "file": "midjourney/olive-green-studio-s-curve.md",
+      "title": "Olive Green Studio S-Curve",
+      "slug": "olive-green-studio-s-curve",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "fashion",
+        "photography",
+        "portrait",
+        "studio"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/olive-green-studio-s-curve",
+      "views": 181
+    },
+    {
+      "file": "midjourney/sunset-park-sweatshirt-portrait.md",
+      "title": "Sunset Park Sweatshirt Portrait",
+      "slug": "sunset-park-sweatshirt-portrait",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/sunset-park-sweatshirt-portrait",
+      "views": 180
+    },
+    {
+      "file": "midjourney/golden-tan-speedboat.md",
+      "title": "Golden Tan Speedboat",
+      "slug": "golden-tan-speedboat",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "fashion",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/golden-tan-speedboat",
+      "views": 179
+    },
+    {
+      "file": "midjourney/abstract-striped-terrace-solitude.md",
+      "title": "Abstract Striped Terrace Solitude",
+      "slug": "abstract-striped-terrace-solitude",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "fashion",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/abstract-striped-terrace-solitude",
+      "views": 176
+    },
+    {
+      "file": "midjourney/muted-headphone-reverie.md",
+      "title": "Muted Headphone Reverie",
+      "slug": "muted-headphone-reverie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "minimalist",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/muted-headphone-reverie",
+      "views": 172
+    },
+    {
+      "file": "flux/man-portrait-12.md",
+      "title": "Man Portrait",
+      "slug": "man-portrait-12",
+      "category_folder": "flux",
+      "source_category": "Cinematic",
+      "tags": [
+        "cinematic",
+        "realistic",
+        "portrait",
+        "studio",
+        "fashion"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/man-portrait-12",
+      "views": 172
+    },
+    {
+      "file": "midjourney/candid-urban-coffee-blur.md",
+      "title": "Candid Urban Coffee Blur",
+      "slug": "candid-urban-coffee-blur",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "selfie",
+        "fashion",
+        "portrait",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/candid-urban-coffee-blur",
+      "views": 167
+    },
+    {
+      "file": "midjourney/sunlit-tropical-turtle-encounter.md",
+      "title": "Sunlit Tropical Turtle Encounter",
+      "slug": "sunlit-tropical-turtle-encounter",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/sunlit-tropical-turtle-encounter",
+      "views": 167
+    },
+    {
+      "file": "midjourney/architectural-facade-oversized-casual.md",
+      "title": "Architectural Facade Oversized Casual",
+      "slug": "architectural-facade-oversized-casual",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "fashion",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/architectural-facade-oversized-casual",
+      "views": 167
+    },
+    {
+      "file": "midjourney/flashlit-birkin-interior-1.md",
+      "title": "Flashlit Birkin Interior",
+      "slug": "flashlit-birkin-interior-1",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "fashion",
+        "night"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/flashlit-birkin-interior-1",
+      "views": 167
+    },
+    {
+      "file": "stable-diffusion/mirror-selfie-scene.md",
+      "title": "Mirror selfie scene",
+      "slug": "mirror-selfie-scene",
+      "category_folder": "stable-diffusion",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "fashion",
+        "portrait",
+        "elegant",
+        "vibrant-colorful",
+        "modern",
+        "business"
+      ],
+      "model_hint": "stable-diffusion",
+      "canonical_url": "https://www.promptspace.in/prompt/mirror-selfie-scene",
+      "views": 166
+    },
+    {
+      "file": "image/commercial-product.md",
+      "title": "commercial product",
+      "slug": "commercial-product",
+      "category_folder": "image",
+      "source_category": "Product Poster",
+      "tags": [
+        "product-poster"
+      ],
+      "model_hint": "image",
+      "canonical_url": "https://www.promptspace.in/prompt/commercial-product",
+      "views": 161
+    },
+    {
+      "file": "midjourney/blush-satin-balcony-night.md",
+      "title": "Blush Satin Balcony Night",
+      "slug": "blush-satin-balcony-night",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "fashion",
+        "photography",
+        "elegant",
+        "night"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/blush-satin-balcony-night",
+      "views": 160
+    },
+    {
+      "file": "midjourney/carefree-marina-night-yacht.md",
+      "title": "Carefree Marina Night Yacht",
+      "slug": "carefree-marina-night-yacht",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "night",
+        "fashion"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/carefree-marina-night-yacht",
+      "views": 158
+    },
+    {
+      "file": "midjourney/macbook-screen-selfie-reflection.md",
+      "title": "MacBook Screen Selfie Reflection",
+      "slug": "macbook-screen-selfie-reflection",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "photography"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/macbook-screen-selfie-reflection",
+      "views": 158
+    },
+    {
+      "file": "midjourney/low-light-lounge-snapshot.md",
+      "title": "Low-Light Lounge Snapshot",
+      "slug": "low-light-lounge-snapshot",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "night"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/low-light-lounge-snapshot",
+      "views": 154
+    },
+    {
+      "file": "midjourney/minimalist-linen-silhouette.md",
+      "title": "Minimalist Linen Silhouette",
+      "slug": "minimalist-linen-silhouette",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "minimalist",
+        "mirror-selfie",
+        "fashion"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/minimalist-linen-silhouette",
+      "views": 153
+    },
+    {
+      "file": "midjourney/nano-banana-portrait.md",
+      "title": "Nano Banana Portrait",
+      "slug": "nano-banana-portrait",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/nano-banana-portrait",
+      "views": 151
+    },
+    {
+      "file": "midjourney/coastal-twilight-solitude.md",
+      "title": "Coastal Twilight Solitude",
+      "slug": "coastal-twilight-solitude",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "fashion",
+        "photography",
+        "elegant"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/coastal-twilight-solitude",
+      "views": 149
+    },
+    {
+      "file": "flux/horse.md",
+      "title": "HORSE",
+      "slug": "horse",
+      "category_folder": "flux",
+      "source_category": "Dark Moody",
+      "tags": [
+        "dark-moody",
+        "realistic",
+        "cinematic"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/horse",
+      "views": 148
+    },
+    {
+      "file": "flux/hyper-realistic-duo.md",
+      "title": "Hyper-Realistic Duo",
+      "slug": "hyper-realistic-duo",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "portrait",
+        "studio"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/hyper-realistic-duo",
+      "views": 148
+    },
+    {
+      "file": "midjourney/matte-harley-urus-fashion.md",
+      "title": "Matte Harley Urus Fashion",
+      "slug": "matte-harley-urus-fashion",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "fashion",
+        "photography",
+        "car",
+        "elegant"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/matte-harley-urus-fashion",
+      "views": 143
+    },
+    {
+      "file": "midjourney/fashion-portrait-28.md",
+      "title": "Fashion Portrait",
+      "slug": "fashion-portrait-28",
+      "category_folder": "midjourney",
+      "source_category": "Portrait",
+      "tags": [
+        "portrait",
+        "modern"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/fashion-portrait-28",
+      "views": 142
+    },
+    {
+      "file": "midjourney/turquoise-infinity-pool-serenity.md",
+      "title": "Turquoise Infinity Pool Serenity",
+      "slug": "turquoise-infinity-pool-serenity",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/turquoise-infinity-pool-serenity",
+      "views": 139
+    },
+    {
+      "file": "midjourney/mystery-fleece.md",
+      "title": "Mystery Fleece",
+      "slug": "mystery-fleece",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "day",
+        "photography"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/mystery-fleece",
+      "views": 138
+    },
+    {
+      "file": "midjourney/stormy-sunset-follow-me.md",
+      "title": "Stormy Sunset Follow-Me",
+      "slug": "stormy-sunset-follow-me",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "couple",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/stormy-sunset-follow-me",
+      "views": 137
+    },
+    {
+      "file": "midjourney/monochrome-studio-athlete.md",
+      "title": "Monochrome Studio Athlete",
+      "slug": "monochrome-studio-athlete",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "studio",
+        "minimalist"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/monochrome-studio-athlete",
+      "views": 137
+    },
+    {
+      "file": "midjourney/white-rose-selfie.md",
+      "title": "White Rose Selfie",
+      "slug": "white-rose-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "selfie",
+        "fashion"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/white-rose-selfie",
+      "views": 136
+    },
+    {
+      "file": "flux/monochrome-equestrian-grace.md",
+      "title": "Monochrome Equestrian Grace",
+      "slug": "monochrome-equestrian-grace",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "fashion",
+        "photography",
+        "elegant"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/monochrome-equestrian-grace",
+      "views": 135
+    },
+    {
+      "file": "midjourney/turquoise-poolside-mojito.md",
+      "title": "Turquoise Poolside Mojito",
+      "slug": "turquoise-poolside-mojito",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "day",
+        "fashion"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/turquoise-poolside-mojito",
+      "views": 132
+    },
+    {
+      "file": "midjourney/neon-bedroom-seduction.md",
+      "title": "Neon Bedroom Seduction",
+      "slug": "neon-bedroom-seduction",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "selfie",
+        "elegant",
+        "night",
+        "neon"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/neon-bedroom-seduction",
+      "views": 130
+    },
+    {
+      "file": "midjourney/3x3-grid.md",
+      "title": "3x3 grid",
+      "slug": "3x3-grid",
+      "category_folder": "midjourney",
+      "source_category": "Studio",
+      "tags": [
+        "studio",
+        "dark-moody",
+        "portrait",
+        "realistic"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/3x3-grid",
+      "views": 128
+    },
+    {
+      "file": "flux/midnight-velvet-mystery.md",
+      "title": "Midnight Velvet Mystery",
+      "slug": "midnight-velvet-mystery",
+      "category_folder": "flux",
+      "source_category": "Cinematic",
+      "tags": [
+        "cinematic",
+        "dark-moody",
+        "portrait",
+        "car",
+        "night"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/midnight-velvet-mystery",
+      "views": 127
+    },
+    {
+      "file": "midjourney/minimalist-moody-profile.md",
+      "title": "Minimalist Moody Profile",
+      "slug": "minimalist-moody-profile",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "fashion",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/minimalist-moody-profile",
+      "views": 126
+    },
+    {
+      "file": "flux/subway-man.md",
+      "title": "Subway Man",
+      "slug": "subway-man",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "photography",
+        "portrait",
+        "dark-moody"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/subway-man",
+      "views": 125
+    },
+    {
+      "file": "midjourney/architectural-bomber-stance.md",
+      "title": "Architectural Bomber Stance",
+      "slug": "architectural-bomber-stance",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "fashion",
+        "photography",
+        "modern",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/architectural-bomber-stance",
+      "views": 125
+    },
+    {
+      "file": "midjourney/twilight-field-reverie.md",
+      "title": "Twilight Field Reverie",
+      "slug": "twilight-field-reverie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/twilight-field-reverie",
+      "views": 125
+    },
+    {
+      "file": "midjourney/twilight-field-silhouette.md",
+      "title": "Twilight Field Silhouette",
+      "slug": "twilight-field-silhouette",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/twilight-field-silhouette",
+      "views": 125
+    },
+    {
+      "file": "stable-diffusion/velvet-authority.md",
+      "title": "Velvet Authority",
+      "slug": "velvet-authority",
+      "category_folder": "stable-diffusion",
+      "source_category": "Fantasy",
+      "tags": [
+        "fantasy",
+        "concept-art",
+        "vibrant-colorful"
+      ],
+      "model_hint": "stable-diffusion",
+      "canonical_url": "https://www.promptspace.in/prompt/velvet-authority",
+      "views": 124
+    },
+    {
+      "file": "flux/dj.md",
+      "title": "DJ",
+      "slug": "dj",
+      "category_folder": "flux",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "cinematic",
+        "fashion",
+        "portrait",
+        "elegant",
+        "vibrant-colorful",
+        "modern"
+      ],
+      "model_hint": "flux",
+      "canonical_url": "https://www.promptspace.in/prompt/dj",
+      "views": 122
+    },
+    {
+      "file": "image/sun-drenched-beach-relaxation.md",
+      "title": "Sun-Drenched Beach Relaxation",
+      "slug": "sun-drenched-beach-relaxation",
+      "category_folder": "image",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "day"
+      ],
+      "model_hint": "image",
+      "canonical_url": "https://www.promptspace.in/prompt/sun-drenched-beach-relaxation",
+      "views": 122
+    },
+    {
+      "file": "midjourney/overhead-sand-selfie.md",
+      "title": "Overhead Sand Selfie",
+      "slug": "overhead-sand-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "selfie"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/overhead-sand-selfie",
+      "views": 118
+    },
+    {
+      "file": "midjourney/monochrome-urban-authority.md",
+      "title": "Monochrome Urban Authority",
+      "slug": "monochrome-urban-authority",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "fashion",
+        "photography",
+        "dark-moody",
+        "car"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/monochrome-urban-authority",
+      "views": 117
+    },
+    {
+      "file": "midjourney/sunset-terrace-luxury-silhouette.md",
+      "title": "Sunset Terrace Luxury Silhouette",
+      "slug": "sunset-terrace-luxury-silhouette",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "fashion",
+        "photography",
+        "portrait",
+        "elegant"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/sunset-terrace-luxury-silhouette",
+      "views": 116
+    },
+    {
+      "file": "midjourney/architectural-high-fashion-ponytail.md",
+      "title": "Architectural High-Fashion Ponytail",
+      "slug": "architectural-high-fashion-ponytail",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "fashion",
+        "portrait",
+        "studio"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/architectural-high-fashion-ponytail",
+      "views": 116
+    },
+    {
+      "file": "midjourney/blush-rose-garden.md",
+      "title": "Blush Rose Garden",
+      "slug": "blush-rose-garden",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "fashion"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/blush-rose-garden",
+      "views": 116
+    },
+    {
+      "file": "midjourney/sunlit-speedboat-solitude.md",
+      "title": "Sunlit Speedboat Solitude",
+      "slug": "sunlit-speedboat-solitude",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "day",
+        "elegant"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/sunlit-speedboat-solitude",
+      "views": 115
+    },
+    {
+      "file": "midjourney/tilted-flash-selfie.md",
+      "title": "Tilted Flash Selfie",
+      "slug": "tilted-flash-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "selfie",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/tilted-flash-selfie",
+      "views": 114
+    },
+    {
+      "file": "midjourney/sun-drenched-tropical-poolside.md",
+      "title": "Sun-Drenched Tropical Poolside",
+      "slug": "sun-drenched-tropical-poolside",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "day",
+        "fashion"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/sun-drenched-tropical-poolside",
+      "views": 114
+    },
+    {
+      "file": "midjourney/minimalist-concrete-over-the-shoulder.md",
+      "title": "Minimalist Concrete Over-the-Shoulder",
+      "slug": "minimalist-concrete-over-the-shoulder",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "fashion",
+        "photography"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/minimalist-concrete-over-the-shoulder",
+      "views": 113
+    },
+    {
+      "file": "midjourney/lace-veil-selfie.md",
+      "title": "Lace Veil Selfie",
+      "slug": "lace-veil-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "selfie"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/lace-veil-selfie",
+      "views": 113
+    },
+    {
+      "file": "midjourney/shadowed-messy-bun-selfie.md",
+      "title": "Shadowed Messy Bun Selfie",
+      "slug": "shadowed-messy-bun-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "selfie",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/shadowed-messy-bun-selfie",
+      "views": 112
+    },
+    {
+      "file": "midjourney/blue-neon-dewy-selfie.md",
+      "title": "Blue Neon Dewy Selfie",
+      "slug": "blue-neon-dewy-selfie",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "portrait",
+        "selfie",
+        "neon",
+        "dark-moody"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/blue-neon-dewy-selfie",
+      "views": 112
+    },
+    {
+      "file": "midjourney/sun-dappled-cabana-reading.md",
+      "title": "Sun-Dappled Cabana Reading",
+      "slug": "sun-dappled-cabana-reading",
+      "category_folder": "midjourney",
+      "source_category": "Realistic",
+      "tags": [
+        "realistic",
+        "photography",
+        "portrait",
+        "day"
+      ],
+      "model_hint": "midjourney",
+      "canonical_url": "https://www.promptspace.in/prompt/sun-dappled-cabana-reading",
+      "views": 109
+    }
+  ]
+}
