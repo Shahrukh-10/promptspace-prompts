@@ -33,7 +33,7 @@ for the community to contribute battle-tested Claude prompts.
 <optional: temperature, system-prompt tips, chaining hints>
 
 ---
-Contributed by [@yourhandle](https://github.com/yourhandle).
+Contributed by `@your-github-handle` (replace with yours when you PR).
 ```
 
 Meanwhile, explore **5,000+ image prompts** at

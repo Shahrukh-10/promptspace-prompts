@@ -72,7 +72,7 @@ Any prep steps, chaining hints, or variations worth calling out.
 Failure modes, when it works best, common tweaks.
 
 ---
-Contributed by [@yourhandle](https://github.com/yourhandle).
+Contributed by `@your-github-handle` (replace with yours when you PR).
 Inspired by / adapted from [PromptSpace](https://www.promptspace.in) — the
 free AI prompt library.
 ````
